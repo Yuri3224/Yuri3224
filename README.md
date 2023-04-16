@@ -7,12 +7,12 @@
 <h2 align="left">Quem eu sou?💻🔱 </h2>
 <br>
 <li> 
-  🧑‍💻 Amante da tecnologia</br>
-  🖥️ Programador</br>
+  🧑‍💻 Amante da tecnologia</br></li>
+  <li>🖥️ Programador</br></li>
   ⛩️ Viciado em Animes</br>
   ✝️ Cristão </br>
   💪 Gym Rat</br>
-  📕 Faminto por Conhecimento e Evolução</li>
+  📕 Faminto por Conhecimento e Evolução
 
 <br>
 
