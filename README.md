@@ -7,7 +7,7 @@
 <h2 align="left">Quem eu sou?💻🔱 </h2>
 <br>
 <li> 
-  🧑‍💻 Amante da tecnologia</br></li>
+  🧑‍💻 Amante da tecnologia</li>
   <li>🖥️ Programador</br></li>
   ⛩️ Viciado em Animes</br>
   ✝️ Cristão </br>
