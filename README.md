@@ -57,7 +57,7 @@
  <a href="https://www.linkedin.com/in/daniel-vitor3224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/5583988733210?text=Opa,%20Vitor!%20Tudo%20beleza?" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325c862?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    
-  ![Snake animation](https://github.com/Yuri3224/Yuri3224/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/Yuri3224/Yuri3224/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
