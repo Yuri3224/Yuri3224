@@ -1,6 +1,6 @@
 <div width=100% align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=9B67F7&width=440&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;(ou+voc%C3%AA+pode+me+chamar+de+Yuri);E+seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&pause=1000&color=9B67F7&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;(ou+voc%C3%AA+pode+me+chamar+de+Yuri);%3CE+seja+bem+vindo+ao+meu+Github%2F%3E)](https://git.io/typing-svg)
 
 </div>
 
