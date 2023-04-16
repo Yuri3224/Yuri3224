@@ -4,9 +4,9 @@
 
 </div>
 
-<h2 align="left">- Quem eu sou?💻🔱 </h2>
+<h2 align="left">Quem eu sou?💻🔱 </h2>
 <br>
-<li Amante da tecnologia> </li>
+<li>  Amante da tecnologia </li>
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas- IFRN
 - 📧 Email para contato: francielefernandes126@gmail.com
 - 📫 Pronomes: ela/dela
