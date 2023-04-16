@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=9B67F7&width=440&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;(ou+voc%C3%AA+pode+me+chamar+de+Yuri);E+seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
 
 </div>
+##
 
 <div align="center">
   <a href="https://github.com/Yuri3224">
