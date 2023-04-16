@@ -12,8 +12,8 @@
   ⛩️ Viciado em Animes</br>
   ✝️ Cristão </br>
   💪 Gym Rat</br>
-  📕 Faminto por Conhecimento e Evolução
-</li>
+  📕 Faminto por Conhecimento e Evolução</li>
+
 <br>
 
 ##
