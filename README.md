@@ -4,6 +4,12 @@
 
 </div>
 
+<h2 align="center">
+    <img src="https://media.tenor.com/MhnpiSmBuggAAAAC/hiei-ghost-fighter.gif">
+</h2> <br>
+
+
+
 <h2 align="left">Quem eu sou?💻🔱 </h2>
 <br>
 <li> 
@@ -50,18 +56,3 @@
  <a href = "mailto:dvitor3224@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23d3403a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/daniel-vitor3224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/5583988733210?text=Opa,%20Vitor!%20Tudo%20beleza?" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325c862?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-
-
-<!--
-**Yuri3224/Yuri3224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile8
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
