@@ -1,7 +1,11 @@
 <div width=100% align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&pause=1000&color=9B67F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;(ou+voc%C3%AA+pode+me+chamar+de+Yuri);E+seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=9B67F7&width=440&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;(ou+voc%C3%AA+pode+me+chamar+de+Yuri);E+seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
 
+</div>
+
+<div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri3224)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
