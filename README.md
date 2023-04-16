@@ -1,4 +1,8 @@
-### Hi there 👋
+<div width=100% align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=25&duration=3000&pause=1000&color=0093FF&center=true&width=435&lines=%3CHello+World%2F%3E;~+Meu+nome+%C3%A9+Franciele+Fernandes+~;-+Tenho+23+anos+-;%7BSou+apaixonada+pelo+Front-End%7D;%3CBem+vindo+(a)+ao+meu+perfil%2F%3E)](https://git.io/typing-svg)
+
+</div>
 
 <!--
 **Yuri3224/Yuri3224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
