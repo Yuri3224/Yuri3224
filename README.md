@@ -51,7 +51,7 @@
   
   <h3 align= "center"> Onde você pode me achar</h3><br>
   
-<div> 
+<div align = "center" style="display: inline_block">
  <a href="https://instagram.com/yuri.mec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:dvitor3224@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23d3403a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/daniel-vitor3224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
