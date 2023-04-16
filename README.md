@@ -6,11 +6,14 @@
 
 <h2 align="left">Quem eu sou?💻🔱 </h2>
 <br>
-<li>  Amante da tecnologia </li>
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas- IFRN
-- 📧 Email para contato: francielefernandes126@gmail.com
-- 📫 Pronomes: ela/dela
-- ☕ Viciada em café
+<li> 
+  🧑‍💻 Amante da tecnologia 
+  🖥️ Programador
+  ⛩️ Viciado em Animes
+  ✝️ Cristão 
+  💪 Gym Rat
+  📕 Faminto por Conhecimento e Evolução
+</li>
 <br>
 
 ##
