@@ -3,6 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=9B67F7&width=440&lines=Ol%C3%A1%2C+eu+sou+o+Vitor;(ou+voc%C3%AA+pode+me+chamar+de+Yuri);E+seja+bem+vindo+ao+meu+Github)](https://git.io/typing-svg)
 
 </div>
+
+<h2 align="left">- Quem eu sou?💻🔱 </h2>
+<br>
+<li Amante da tecnologia> </li>
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas- IFRN
+- 📧 Email para contato: francielefernandes126@gmail.com
+- 📫 Pronomes: ela/dela
+- ☕ Viciada em café
+<br>
+
 ##
 
 <div align="center">
