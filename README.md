@@ -9,10 +9,10 @@
 <li> 
   🧑‍💻 Amante da tecnologia</li>
   <li>🖥️ Programador</br></li>
-  ⛩️ Viciado em Animes</br>
-  ✝️ Cristão </br>
-  💪 Gym Rat</br>
-  📕 Faminto por Conhecimento e Evolução
+  <li>⛩️ Viciado em Animes</li>
+  <li>✝️ Cristão</li>
+  <li>💪 Gym Rat</li>
+  <li>📕 Faminto por Conhecimento e Evolução</li>
 
 <br>
 
