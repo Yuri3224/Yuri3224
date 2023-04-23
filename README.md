@@ -10,15 +10,15 @@
 
 
 
-<h2 align="left">Quem eu sou?💻🔱 </h2>
+## Quem eu sou?💻🔱
 <br>
-<li> 
-  🧑‍💻 Amante da tecnologia</li>
-  <li>🖥️ Programador</br></li>
-  <li>⛩️ Viciado em Animes</li>
-  <li>✝️ Cristão</li>
-  <li>💪 Gym Rat</li>
-  <li>📕 Faminto por Conhecimento e Evolução</li>
+
+* **🧑‍💻 Amante da tecnologia**
+* **🖥️ Programador**
+* **⛩️ Viciado em Animes**
+* **✝️ Cristão**
+* **💪 Gym Rat**
+* **📕 Faminto por Conhecimento e Evolução**
 
 ##
 
