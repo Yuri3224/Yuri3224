@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/Yuri3224">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri3224&show_icons=false&theme=material-palenight&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri3224&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri3224&layout=flex&langs_count=7&theme=material-palenight&include_all_commits=true&count_private=true"/>
       
 </div>
